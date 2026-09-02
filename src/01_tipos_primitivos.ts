@@ -26,7 +26,7 @@
 // - `promedioObjetivo` (number): Debe ser un número decimal (ej. 9.85).
 // - `estaMatriculado` (boolean): Debe ser true.
 
-export const nombreEstudiante: string = "";       // 👈 TODO: Escribe tu nombre aquí
+export const nombreEstudiante: string = "Jonnathan Guaman ";       // 👈 TODO: Escribe tu nombre aquí
 export const edadEstudiante: number = 0;          // 👈 TODO: Escribe tu edad aquí
 export const promedioObjetivo: number = 0;        // 👈 TODO: Escribe tu promedio objetivo
 export let estaMatriculado: boolean = false;    // 👈 TODO: Cambia a true
